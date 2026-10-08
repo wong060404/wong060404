@@ -89,7 +89,7 @@ modes. Offline-first: no account, no network.
 範圍。使用者自行建立字組、研讀，再透過「配對」與「拼寫」兩種模式證明自己真的記得。
 離線優先：無需帳號、無需網絡。
 
-→ [Repository](https://github.com/wong060404/Vocab_Master_V1.0)
+→ [Repository](https://github.com/wong060404/vocab-master)
 
 ---
 
