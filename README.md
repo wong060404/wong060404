@@ -110,5 +110,5 @@ modes. Offline-first: no account, no network.
 Previously completed an Associate of Engineering at HKU SPACE Community College, where my
 final-year project was the ESP32 occupancy system above.
 
-**中文** — 現正於香港城市大學修讀電腦科學。此前於 HKU SPACE 社區書院完成工程學副學士，
+**中文** — 現正於香港城市大學修讀電腦科學。此前於 HKU SPACE Community College 完成工程學副學士，
 畢業專題即上方的 ESP32 居住時數系統。
